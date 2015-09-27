@@ -15,7 +15,6 @@ class ViewController: UIViewController {
     
     @IBAction func findAge() {
         
-        
         var catAge = Int(catAgeTextField.text!)!
             
         catAge = catAge * 7
